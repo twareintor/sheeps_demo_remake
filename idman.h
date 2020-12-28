@@ -58,7 +58,7 @@ int releaseUniqueId(int id)
 
 /** 
  * Id-class: an object containing nothing more than an integral-type value as member
- * wiht overloaded assignment operator in order to can be accessed in an intuitive way
+ * with overloaded assignment operator in order to can be accessed in an intuitive way
  */
 class CId
 {
